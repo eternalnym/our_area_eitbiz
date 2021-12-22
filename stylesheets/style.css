@@ -1,0 +1,23 @@
+.message_block{
+    text-align: center;
+}
+#error_msg{
+    padding: 0px 10px;
+    color: red;
+}
+#msg{
+    color:red;
+    /* display: inline-block; */
+}
+.success_cls{
+    background-color : none;
+}
+.msg{
+    color: red;
+}
+#success_msg{
+    color:green;
+}
+.error_msg{
+    display: none;
+}
